@@ -1,22 +1,11 @@
 <p><h1 align="center">88.长乐文学小说管理系统</h1></p>
 
-<p> 获取sql文件 QQ: 386869957 QQ群: 377586148 </p>
-<p> [推荐站点: 从戎源码网](https://armycodes.com/) </p>
-
-## 简介
-
-> 本代码来源于网络,仅供学习参考使用!
->
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
-> 
-> 管理后台登录地址：http://localhost/
-> 
-> admin 123456
-> 
-> 用户端地址：http://localhost:808
-> 
-> 13333333333 123456
->
+- <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
+- <b>技术探讨、资料分享，请加QQ群：692619798</b> 
+- <b>作者微信：19941326836  QQ：952045282</b> 
+- <b>承接计算机毕业设计、Java毕业设计、Python毕业设计、深度学习、机器学习</b>
+- <b>选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 一条龙服务</b>
+- <b>所有选题地址 ([https://github.com/YuLin-Coder/AllProjectCatalog](https://github.com/YuLin-Coder/AllProjectCatalog)) </b>
 
 ## 项目介绍
 基于springboot的长乐文学小说管理系统：前端 html、jquery、layui，后端 maven、springmvc、spring、mybatis，角色分为管理员、用户；集成书籍在线阅读、订阅、书籍发布、作家专区等功能于一体的系统。
